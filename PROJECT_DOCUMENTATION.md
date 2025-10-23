@@ -3456,27 +3456,27 @@ window.ExpenseTracker = {
 ## Screenshots
 
 ### Login Page
-![Login Page Screenshot](screenshots/login.png)
+![Login Page Screenshot](https://github.com/manuemmanuel/php-expense-tracker/blob/main/screenshots/login.jpeg)
 *Caption: User login interface with form validation*
 
 ### Registration Page
-![Registration Page Screenshot](screenshots/register.png)
+![Registration Page Screenshot](https://github.com/manuemmanuel/php-expense-tracker/blob/main/screenshots/register.jpeg)
 *Caption: User registration form with validation*
 
 ### Dashboard
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/manuemmanuel/php-expense-tracker/blob/main/screenshots/dashboard.jpeg)
 *Caption: Main dashboard showing statistics and charts*
 
 ### Add Expense
-![Add Expense Screenshot](screenshots/add_expense.png)
+![Add Expense Screenshot](https://github.com/manuemmanuel/php-expense-tracker/blob/main/screenshots/add_expense.jpeg)
 *Caption: Form for adding new expenses*
 
 ### View Expenses
-![View Expenses Screenshot](screenshots/view_expenses.png)
+![View Expenses Screenshot](https://github.com/manuemmanuel/php-expense-tracker/blob/main/screenshots/view_expenses.jpeg)
 *Caption: List of all expenses with filtering options*
 
 ### Reports
-![Reports Screenshot](screenshots/reports.png)
+![Reports Screenshot](https://github.com/manuemmanuel/php-expense-tracker/blob/main/screenshots/reports.jpeg)
 *Caption: Comprehensive reporting with charts and analytics*
 
 
